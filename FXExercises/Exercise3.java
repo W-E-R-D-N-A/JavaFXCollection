@@ -1,4 +1,4 @@
-package hw1Smallman;
+package FXExercises;
 
 import javafx.application.Application;
 import javafx.collections.ObservableList;
