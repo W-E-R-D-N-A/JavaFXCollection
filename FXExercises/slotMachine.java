@@ -1,4 +1,4 @@
-package hw1Smallman;
+package FXExercises;
 
 import java.text.DecimalFormat;
 import java.lang.Math;
