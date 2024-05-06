@@ -18,7 +18,7 @@ import javafx.scene.layout.VBox;
 import javafx.geometry.Pos;
 import javafx.stage.Stage;
  
-public class ola5Smallman extends Application {
+public class slotMachine extends Application {
     public static void main(String[] args) {
         launch(args);
     }
